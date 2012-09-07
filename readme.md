@@ -2,12 +2,15 @@
 
 ## Contact me
 
-Living in 		[Córdoba, Argentina](https://maps.google.com/maps?q=c%C3%B3rdoba,+argentina&hl=es&ie=UTF8&sll=37.0625,-95.677068&sspn=47.569986,101.425781&t=h&hnear=C%C3%B3rdoba,+Argentina&z=12)
-Telephone: 		[+543514861650](skype:+543514861650?call)****
-E-mail:			<jfromaniello@gmail.com>
-Blog: 			[http://joseoncode.com](http://joseoncode.com)
-Spanish blog: 	[http://joseoncode.com](http://joseoncode.com)
-Skype: 			[jfromaniello1](skype:jfromaniello1?call)
+Living in 		[Córdoba, Argentina](https://maps.google.com/maps?q=c%C3%B3rdoba,+argentina&hl=es&ie=UTF8&sll=37.0625,-95.677068&sspn=47.569986,101.425781&t=h&hnear=C%C3%B3rdoba,+Argentina&z=12)  
+
+Telephone: <a href="skype:+543514861650?call">+543514861650</a>  
+
+E-mail:			<jfromaniello@gmail.com>  
+Blog: 			[http://joseoncode.com](http://joseoncode.com)  
+Spanish blog: 	[http://es.joseoncode.com](http://joseoncode.com)  
+
+Skype: <a href="skype:jfromaniello?call">jfromaniello1</a>  
 
 
 ***
