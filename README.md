@@ -1,0 +1,1 @@
+my resume at [http://jfromaniello.github.com/resume](http://jfromaniello.github.com/resume).
