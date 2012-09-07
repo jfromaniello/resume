@@ -1,8 +1,3 @@
-$.fn.tagcloud.defaults = {
-  size: {start: 14, end: 22, unit: 'pt'},
-  color: {start: '#cde', end: '#f52'}
-};
-
 $(function(){
   $.get("https://api.github.com/users/jfromaniello/repos")
     .done(function(repositories){
