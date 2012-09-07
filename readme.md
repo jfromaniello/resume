@@ -92,4 +92,4 @@ Telephone: <a href="skype:+543514861650?call">+543514861650</a>
 E-mail:			<jfromaniello@gmail.com>  
 Blog: 			[http://joseoncode.com](http://joseoncode.com)  
 Spanish blog: 	[http://es.joseoncode.com](http://joseoncode.com)  
-Skype: <a href="skype:jfromaniello?call">jfromaniello1</a>  
+Skype: <a href="skype:jfromaniello1?call">jfromaniello1</a>  
