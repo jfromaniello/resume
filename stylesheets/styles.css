@@ -288,12 +288,12 @@ header li:hover {
 }
 
 a.buttons {
-	-webkit-font-smoothing: antialiased;
-	background: url(../images/arrow-down.png) no-repeat;
-	font-weight: normal;
-	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
-	padding: 2px 2px 2px 22px;
-	height: 30px;
+  -webkit-font-smoothing: antialiased;
+  /*background: url(../images/arrow-down.png) no-repeat;*/
+  font-weight: normal;
+  text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
+  padding: 2px 2px 2px 22px;
+  height: 30px;
 }
 
 a.github {
@@ -326,7 +326,15 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
-
+  a.buttons{
+    visibility: hidden;
+  }
+  header ul {
+    visibility: hidden;
+  }
+  header{
+    max-height: 100px;
+  }
   div.wrapper {
     width:auto;
     margin:0;
