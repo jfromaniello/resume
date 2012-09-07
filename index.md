@@ -1,3 +1,6 @@
+--- 
+layout: default
+---
 # José F. Romaniello résumé
 
 ## Summary
@@ -7,6 +10,10 @@ Agile software developer with strong skills in Test Driven Development and agile
 
 Member and creator of various open source projects. 
 
+## Opensource projects
+
+<div id="oss">
+</div>
 
 ## Work Experience
 ### Agilesight *since May 2012*
@@ -36,12 +43,6 @@ governmental agency.
 
 ### Horovitz, Kravetz y Asociados *May 2005 to December 2005*
 **Isol** Led the architectural decisions to develop an insurance system for a Banco Macro. The software is being used in all branches of the bank throughout Argentina. The solution was built with a front-end in ASP3 and  backend in VB6.
-
-## Opensource projects
-
-Here is a list of the opensource projects I am currently working on:
-
-<div id="oss"></div>
 
 ## Community involvement
 
