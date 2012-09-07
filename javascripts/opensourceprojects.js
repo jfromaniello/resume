@@ -1,7 +1,10 @@
 $(function(){
-  $.get("https://api.github.com/users/jfromaniello/repos")
-    .done(function(repositories){
-      var target = $("#oss");
+  $.ajax({
+    url: "https://api.github.com/users/jfromaniello/repos",
+    dataType: "jsonp"
+  }).done(function(data){
+      var repositories = data.data,
+          target = $("#oss");
       for(var i in repositories){
         var repo = repositories[i];
         // if(repo.watchers_count < 2 && repo.fork) continue;
