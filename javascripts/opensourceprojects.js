@@ -1,6 +1,6 @@
 $(function(){
   $.ajax({
-    url: "https://api.github.com/users/jfromaniello/repos",
+    url: "https://api.github.com/users/jfromaniello/repos?per_page=1000",
     dataType: "jsonp"
   }).done(function(data){
       var repositories = data.data,
