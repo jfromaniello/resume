@@ -9,7 +9,13 @@ Member and creator of various open source projects.
 
 
 ## Work Experience
-### Tellago/Tellago Studios *March 2010 to July 2012*
+### Agilesight *since May 2012*
+Working as a JavaScript front-end and node.js consultant.
+
+### Idear.se *since September 2012*
+**GipiTrack** working as node.js and JavaScript consultant to implement a real-time mobile application for tracking assets through GPS.
+
+### Tellago/Tellago Studios *March 2010 to September 2012*
 **EB** worked on a project for a medical insurance company to allow customers to order reimbursements from their mobile devices. In this project we used Asp.Net MVC, WCF Web API, MSMQ and Sql Server.
 
 **Moesion** developed a software as a service product that allows companies to manage their servers from mobile phones without changing their network infrastructure. In this project we used modern web technologies and patterns like Single Page Application, and at the backend .Net, Asp.Net MVC, Sql Server and a push notification service called PubNub.
